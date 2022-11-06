@@ -1,36 +1,31 @@
-# Hello, I'm Hyunjin Lee :wave:
+# Hello, I'm Hyunjin Lee :blush:
 
 Hello! I am 24 years old who loves data and wants to become a data analyst.
 I mainly code in Python, and I am always learning. 
 Please show a lot of interest!
 
-## My skills 📜
-
-### Good
-
--Python
--SQL
--Excel
-
-### Project Experience
-
--R 
--HTML5 
--CSS3 
--Javascript
--Nodejs 
-
-### Just Learning
-
--QGIS 
--Java 
--Linux 
--Docker 
--Hadoop 
--Spark 
--Kafka 
--AWS 
--Tableau 
+## My skills :computer:
+<div>
+<img src="https://img.shields.io/badge/Python-F5FFFA?style=flat&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/MySQL-F5FFFA?style=flat&logo=MySQL&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Microsoft Excel-F5FFFA?style=flat&logo=Microsoft Excel&logoColor=217346"/>
+</div>
+<div>
+<img src="https://img.shields.io/badge/R-FFFAF0?style=flat&logo=R&logoColor=276DC3"/>
+<img src="https://img.shields.io/badge/HTML5-FFFAF0?style=flat&logo=HTML5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-FFFAF0?style=flat&logo=CSS3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-FFFAF0?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Node.js-FFFAF0?style=flat&logo=Node.js&logoColor=339933"/>
+</div>
+<div>
+<img src="https://img.shields.io/badge/Qgis-F8F8FF?style=flat&logo=Qgis&logoColor=589632"/>
+<img src="https://img.shields.io/badge/Java-F8F8FF?style=flat&logo=Java&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Linux-F8F8FF?style=flat&logo=Linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Docker-F8F8FF?style=flat&logo=Docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Apache Hadoop-F8F8FF?style=flat&logo=Apache-Hadoop&logoColor=66CCFF"/>
+<img src="https://img.shields.io/badge/Apache Spark-F8F8FF?style=flat&logo=Apache Spark&logoColor=E25A1C"/>
+<img src="https://img.shields.io/badge/Tableau-F8F8FF?style=flat&logo=Tableau&logoColor=E97627"/>
+</div>
 
 ## Projects I'm the most proud of
 
