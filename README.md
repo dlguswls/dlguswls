@@ -13,16 +13,10 @@ March, 2018 - February, 2023
 <div>
 <img src="https://img.shields.io/badge/Python-F5FFFA?style=flat&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/MySQL-F5FFFA?style=flat&logo=MySQL&logoColor=4479A1"/>
-</div>
-<div>
 <img src="https://img.shields.io/badge/HTML5-FFFAF0?style=flat&logo=HTML5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/CSS3-FFFAF0?style=flat&logo=CSS3&logoColor=1572B6"/>
 <img src="https://img.shields.io/badge/JavaScript-FFFAF0?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/Node.js-FFFAF0?style=flat&logo=Node.js&logoColor=339933"/>
-</div>
-<div>
-<img src="https://img.shields.io/badge/Java-F8F8FF?style=flat&logo=Java&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/Tableau-F8F8FF?style=flat&logo=Tableau&logoColor=E97627"/>
 </div>
 
 ## Work Experience
