@@ -4,7 +4,12 @@ Hello! I am 24 years old who loves data and wants to become a data analyst.
 I mainly code in Python, and I am always learning. 
 Please show a lot of interest!
 
-## My skills :computer:
+## Education
+Seoul University of Science and Technology ( SEOULTECH ) </br>
+Double Major in "Industrial and Information Systems Engineering" and "Big Data Management Engineering" <br>
+March, 2018 - February, 2023
+
+## My skills
 <div>
 <img src="https://img.shields.io/badge/Python-F5FFFA?style=flat&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/MySQL-F5FFFA?style=flat&logo=MySQL&logoColor=4479A1"/>
@@ -27,45 +32,31 @@ Please show a lot of interest!
 <img src="https://img.shields.io/badge/Tableau-F8F8FF?style=flat&logo=Tableau&logoColor=E97627"/>
 </div>
 
-## Projects I'm the most proud of
+## Work Experience
 
-| Name            | Description                                                          | Language      | Repo                                                             |
-| --------------- | -------------------------------------------------------------------- | ------------- | ---------------------------------------------------------------- |
-| Interclip       | A clipboard and file sharing tool                                    | PHP           | [aperta-principium/Interclip](https://s.trnck.dev/interclip-git) |
-| Open Sauced     | 🍕 This is a project to identify your next open source contribution. | JS / React.js | [open-sauced/open-sauced](https://s.trnck.dev/sauced-git)        |
-| gitpy           | A Python wrapper for git                                             | Python        | [filiptronicek/gitpy](https://s.trnck.dev/gitpy)                 |
-| Dataset Creator | Simple Flickr Image Scraper and compression script                   | Python        | [filiptronicek/dataset-creator](https://s.trnck.dev/a831c)       |
+| Institute | Type | Period | Details |
+| ----- | ----- | ----- | ----- |
+| KoROAD ( Dobong Driver's License Examination Office ) | Intern | September 6, 2021 - February 28, 2022  | Work using data (Driver type analysis, demonstration of training data based on examiner characteristics analysis, analysis of road test deduction items) |
 
-## In the works
+## Main Project
 
-Stuff that is looking forward to be shipped :shipit: 
-| Name of project | Current State | Version |
-|-----------------|---------------|---------|
-|[Interclip mobile](https://github.com/filiptronicek/iclip-mobile) | Shipping MVP | [v0.2.0](https://github.com/filiptronicek/iclip-mobile/releases/tag/v0.2.0) |
-|[Open Sauced](https://github.com/open-sauced/open-sauced/) | Fixing bugs and adding key features | [v0.18.2](https://github.com/open-sauced/open-sauced/releases/tag/v0.18.2) |
-| [Taskord mobile](https://github.com/filiptronicek/taskord-mobile/) | Trying to get to MVP | -not release yet-
+| Name | Period | Link | Keyword |
+| ----- | ----- | ----- | ----- |
+| A Study on the Suitability of CPC Patent System for Effective Classification of Convergence Technology - An Exploratory Approach | January 20, 2022 - September 22, 2022 |  | TextMining |
+| Derive L.Point / L.Pay Customer Insight and Implement Product Recommendation and Repurchase Forecast Dashboard | June 30, 2022 - August 11, 2022 |  | TimeSeriesAnalysis, Recommendation, Clustering |
+| A Study on the Improvement of the Living Environment of the Dog Shelter through the Analysis of Public Data | September 27, 2021 - October 15, 2021 |  | BinaryClassification |
+| An Analysis of the Causes of Facility Abnormalities and Power Factor Improvement in General-purpose Facilities through Real-Time Power Factor Prediction by Facility | August 30, 2021 - September 17, 2021 |  | TimeSeriesAnalysis |
+| Analysis of big data on social media about foreigners' Travel to Korea | May 19, 2021 - July 31, 2021 |  | TextMining |
 
-## My own dictionary 📕:
+## Main Activity
 
-| Word / abreviation | Meaning                                                | Note                                             |
-| ------------------ | ------------------------------------------------------ | ------------------------------------------------ |
-| FFO                | Fífa Friendly Office (a place where I can work safely) | Idea by [@aellopos](https://github.com/aellopos) |
+EXTRACURRICULAR ACTIVITIES
+| Name | Period | Activity |
+| ----- | ----- | ----- |
+| BOAZ | February, 2022 - January, 2023  | Data Engineering Study and Project (Linux/Hadoop/Spark/Kafka/Docker) |
+| BITAmin | August, 2020 - August, 2021  | Data Analysis Study and Project (Python) |
 
-## Website subdomains 🔌
 
-My website has quite a few of them, here's a list of the public ones:
-
-- [thanks.trnck.dev](https://thanks.trnck.dev) - my thanks page to my sponsors
-- [download.trnck.dev](http://download.trnck.dev) - download some important
-  assets, which I personally use
-- [status.trnck.dev](https://status.trnck.dev) - status page for my sites
-- [btc.trnck.dev](https://btc.trnck.dev) - track the price of Bitcoin - data
-  from [filiptronicek/btc-tracker](https://github.com/filiptronicek/btc-tracker)
-- [qr.trnck.dev](https://qr.trnck.dev) - create a QR code in 2 seconds
-</details>
------
-Credits: [filiptronicek](https://github.com/filiptronicek)
-
-Last Edited on: 25/12/2020
+<div align='right'>Last Edited on: November 7, 2022</div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlguswls%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
