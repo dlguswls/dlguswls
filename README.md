@@ -13,7 +13,6 @@ March, 2018 - February, 2023
 <div>
 <img src="https://img.shields.io/badge/Python-F5FFFA?style=flat&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/MySQL-F5FFFA?style=flat&logo=MySQL&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/Microsoft Excel-F5FFFA?style=flat&logo=Microsoft Excel&logoColor=217346"/>
 </div>
 <div>
 <img src="https://img.shields.io/badge/R-FFFAF0?style=flat&logo=R&logoColor=276DC3"/>
@@ -25,10 +24,6 @@ March, 2018 - February, 2023
 <div>
 <img src="https://img.shields.io/badge/Qgis-F8F8FF?style=flat&logo=Qgis&logoColor=589632"/>
 <img src="https://img.shields.io/badge/Java-F8F8FF?style=flat&logo=Java&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/Linux-F8F8FF?style=flat&logo=Linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Docker-F8F8FF?style=flat&logo=Docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Apache Hadoop-F8F8FF?style=flat&logo=Apache-Hadoop&logoColor=66CCFF"/>
-<img src="https://img.shields.io/badge/Apache Spark-F8F8FF?style=flat&logo=Apache Spark&logoColor=E25A1C"/>
 <img src="https://img.shields.io/badge/Tableau-F8F8FF?style=flat&logo=Tableau&logoColor=E97627"/>
 </div>
 
