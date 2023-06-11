@@ -1,19 +1,18 @@
 # Hello, I'm Hyunjin Lee :blush:
 
-Hello! I am 24 years old who loves data and wants to become a data analyst.
+Hello! I am 25 years old who loves data.
 I mainly code in Python, and I am always learning. 
 Please show a lot of interest!
 
 ## Education
 Seoul University of Science and Technology ( SEOULTECH ) </br>
 Double Major in "Industrial and Information Systems Engineering" and "Big Data Management Engineering" <br>
-March, 2018 - February, 2023
+March, 2018 - August, 2023
 
 ## My skills
 <div>
 <img src="https://img.shields.io/badge/Python-F5FFFA?style=flat&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/MySQL-F5FFFA?style=flat&logo=MySQL&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/Node.js-FFFAF0?style=flat&logo=Node.js&logoColor=339933"/>
 </div>
 
 ## Work Experience
@@ -21,6 +20,7 @@ March, 2018 - February, 2023
 | Institute | Type | Period | Details |
 | ----- | ----- | ----- | ----- |
 | KoROAD ( Dobong Driver's License Examination Office ) | Intern | September 6, 2021 - February 28, 2022  | Work using data (Driver type analysis, demonstration of training data based on examiner characteristics analysis, analysis of road test deduction items) |
+| Lotte Home Shopping | Staff | April 17, 2022 - Present | Big Data Team - CRM |
 
 ## Main Project
 
@@ -43,6 +43,6 @@ EXTRACURRICULAR ACTIVITIES
 # If you want to contact me
 Email: dlskadn77@naver.com
 
-<div align='right'>Last Edited on: November 11, 2022</div>
+<div align='right'>Last Edited on: June 11, 2023</div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlguswls%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
