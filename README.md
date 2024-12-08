@@ -1,7 +1,7 @@
 # Hello, I'm Hyunjin Lee :blush:
 
 Hello! I am 25 years old who loves data.
-I mainly code in Python, and I am always learning. 
+I mainly code in Python/SQL, and I am always learning. 
 Please show a lot of interest!
 
 ## Education
