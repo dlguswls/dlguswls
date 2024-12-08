@@ -20,8 +20,7 @@ March, 2018 - August, 2023
 | Institute | Type | Period | Details |
 | ----- | ----- | ----- | ----- |
 | KoROAD ( Dobong Driver's License Examination Office ) | Intern | September 6, 2021 - February 28, 2022  | Work using data (Driver type analysis, demonstration of training data based on examiner characteristics analysis, analysis of road test deduction items) |
-| Lotte Home Shopping | Staff | April 17, 2023 - December 15, 2023  | Big Data Team - Data Analysis & CRM |
-| Lotte Home Shopping | Staff | December 15, 2023 - Present | Customer Marketing Team (Team name change) - Data Analysis & CRM |
+| Lotte Home Shopping | Staff | April 17, 2023 - Present  | Data Analysis & CRM - Big Data Team(2023) / Customer Marketing Team (2024) / Customer Insight Team (2025) |
 
 ## Main Project
 
@@ -44,6 +43,6 @@ EXTRACURRICULAR ACTIVITIES
 # If you want to contact me
 Email: dlskadn77@naver.com
 
-<div align='right'>Last Edited on: January 18, 2024</div>
+<div align='right'>Last Edited on: December 08, 2024</div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlguswls%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
